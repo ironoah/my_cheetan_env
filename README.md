@@ -6,11 +6,11 @@ models
 
 views
 	[table]
-		add
-		added
-		delete
-		deleted
-		index
-		update
-		updated
-		view
+		add.php
+		added.php
+		delete.php
+		deleted.php
+		index.php
+		update.php
+		updated.php
+		view.php
